@@ -16,7 +16,7 @@ You can browse through all of my code above and see some screenshots of the proj
 <br>
 <img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/sc2.png" alt="sc2" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/toy-story-view.png" alt="toy story view" height="450"><br>
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/toy-story-view1.png" alt="toy story view" height="450"><br>
 
 <b>Edit and Add Individual Movies</b><br>
 <img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/toy-story-edit.png" alt="toy story edit" height="450">
