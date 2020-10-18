@@ -12,20 +12,20 @@ I got an A grade for this module (Advanced Web Design and Development).
 You can browse through all of my code above and see some screenshots of the project in action below:
 
 <b>Overall Design</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/movies_db/master/screenshots/sc1.png" alt="sc1" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/sc1.png" alt="sc1" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/movies_db/master/screenshots/sc2.png" alt="sc2" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/sc2.png" alt="sc2" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/movies_db/master/screenshots/toy-story-view.png" alt="toy story view" height="450"><br>
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/toy-story-view.png" alt="toy story view" height="450"><br>
 
 <b>Edit and Add Individual Movies</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/movies_db/master/screenshots/toy-story-edit.png" alt="toy story edit" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/toy-story-edit.png" alt="toy story edit" height="450">
 <br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/movies_db/master/screenshots/add-movie.png" alt="add movie" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/add-movie.png" alt="add movie" height="450">
 <br>
 
 <b>Search Functionality</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/movies_db/master/screenshots/ted-search.png" alt="ted search" height="450">
+<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/ted-search.png" alt="ted search" height="450">
 <br>
 
 <b>Sources</b><br>
