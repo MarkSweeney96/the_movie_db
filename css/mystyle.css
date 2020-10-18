@@ -1,0 +1,61 @@
+#example_wrapper.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.mdb {
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+  padding-top: 20px;
+}
+
+.table_top {
+  background-color: #34495e;
+  color: #ecf0f1;
+  border-radius: 25px;
+}
+
+.form-control {
+  border-color: #34495e;
+}
+
+.cr {
+  font-family: 'Special Elite', cursive;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.err {
+  color: #D24D57;
+  font-weight: thin;
+  font-size: 15px;
+}
+
+.poster {
+  width: 250px;
+  height: auto;
+}
+
+.field_name {
+  font-weight: bold;
+}
+
+.view_mov {
+  padding-top: 30px;
+}
+
+.yt_trailer {
+  text-align: center;
+}
+
+.mov_title {
+  padding-top: 0px;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.stars {
+  font-size: 25px;
+}
