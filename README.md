@@ -1,32 +1,18 @@
-# The Movie DB (Movies Site)
-This repository contains a movies site I designed and developed in my second year of college.
-It uses HTML, CSS, PHP and an SQL database. All the movies and their relevant data are live text directly from the SQL database. The movie posters and trailers are embedded from links stored in the database.
+# The Movie Db
 
-To install this project you will need to:
-1. Install a local Apache Web Server and a MySQL database server. <a href="https://www.apachefriends.org/index.html">XAMPP</a> is a good piece of software that installs both.   
-2. Create a new database called 'movies' and import the <i>movies.sql</i> file located in this repository.
-3. <b>NB:</b> Make sure the Connection.php file has the correct information for your local web server and database.
+This is a movie database site I designed and developed in my second year of college. This project uses HTML, CSS, PHP and a MySQL database. The design was implemented using the Bootstrap CSS framework. It allows the user to create, view, edit and delete movies in a database. Once a movie is added to the database, the movie appears in table that can be filtered and searched. Individual movie details can also be viewed including the movie poster, movie details and star rating out of five. The movie trailer can also be viewed with an embedded YouTube video.  
 
-I got an A grade for this module (Advanced Web Design and Development).
 
-You can browse through all of my code above and see some screenshots of the project in action below:
+## Installation
+To install this project on your computer, you will need to:
+1. Install a local Apache Web Server and a MySQL database server. [XAMPP](https://www.apachefriends.org/index.html) is a good piece of software that installs both.   
+2. Create a new database called 'movies' and import the __movies.sql__ file located in this repository.
+3. __NB__: Make sure the __Connection.php__ file has the correct information for your local web server and database.
 
-<b>Overall Design</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/sc1.png" alt="sc1" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/sc2.png" alt="sc2" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/toy-story-view1.png" alt="toy story view" height="450"><br>
+# Project Showcase
+To view a showcase of this project, click the link below. This includes a detailed description of the project along with screenshots of the visual design.
 
-<b>Edit and Add Individual Movies</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/toy-story-edit.png" alt="toy story edit" height="450">
-<br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/add-movie.png" alt="add movie" height="450">
-<br>
+## [https://www.marksweeney.io/portfolio-of-work/the-movie-db](https://www.marksweeney.io/portfolio-of-work/the-movie-db)
 
-<b>Search Functionality</b><br>
-<img src="https://raw.githubusercontent.com/MarkSweeney96/the_movie_db/master/screenshots/ted-search.png" alt="ted search" height="450">
-<br>
-
-<b>Sources</b><br>
-All movie data and images were sourced from https://www.themoviedb.org/. All movie trailers were sourced from YouTube. The links to the images used are in the database under 'poster' and the links to the movie trailers are under 'trailer'.
+### Sources
+All movie data and images were sourced from [TheMovieDb.org](https://www.themoviedb.org/). All movie trailers were sourced from [YouTube](https://www.youtube.com/). The links to the images used are in the database sql file under 'poster' and the links to the YouTube movie trailers are under 'trailer'.
