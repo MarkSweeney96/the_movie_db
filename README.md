@@ -16,3 +16,6 @@ To view a showcase of this project, click the link below. This includes a detail
 
 ### Sources
 All movie data and images were sourced from [TheMovieDb.org](https://www.themoviedb.org/). All movie trailers were sourced from [YouTube](https://www.youtube.com/). The links to the images used are in the database sql file under 'poster' and the links to the YouTube movie trailers are under 'trailer'.
+
+### Note
+This project is in no way associated with [The Movie Database (TMDb)](https://www.themoviedb.org/). The title was simply used as a name for a college project.
